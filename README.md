@@ -1,6 +1,13 @@
 # weatherus
 
 A new Flutter project.
+READ!!!!!!!!!!!!!
+Run on terminal :
+flutter pub get
+flutter upgrade
+flutter run
+
+
 
 ## Getting Started
 
